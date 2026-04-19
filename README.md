@@ -68,7 +68,8 @@ Raw CSV → Amazon S3 → AWS Glue Crawler → AWS Glue (ETL) → Parquet (S3) �
 - Automate pipeline using Airflow or Step Functions        
 
 ## Screenshots
-(Add your QuickSight dashboard screenshots here)
+### Result 
+![Result](./result3.png)
 
 ## How to Run
 1. Upload dataset to S3
