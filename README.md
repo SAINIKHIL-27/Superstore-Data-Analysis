@@ -69,7 +69,7 @@ Raw CSV → Amazon S3 → AWS Glue Crawler → AWS Glue (ETL) → Parquet (S3) �
 
 ## Screenshots
 ### Result 
-![Result](./result3.png)
+![Result](screenshots/result3.png)
 
 ## How to Run
 1. Upload dataset to S3
